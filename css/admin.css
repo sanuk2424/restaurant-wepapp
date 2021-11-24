@@ -98,12 +98,15 @@ version:1.0;
     width:30%;
 }
 table tr th {
-    border-bottom: 1px solid black;
+   
     padding: 1%;
     text-align:left;
+    background-color: #ff4757;
+    color:whitesmoke;
 }
 table tr td {
     padding: 1%;
+    border-bottom: 1px solid red;
 }
 
 .btn-primary {
